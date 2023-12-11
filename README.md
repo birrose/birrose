@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @birrose
-- 📫 b[irgitterosen.com](https://www.birgitterosen.com/)
+- 📫 [birgitterosen.com](https://www.birgitterosen.com/)
 
 <!---
 birrose/birrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
